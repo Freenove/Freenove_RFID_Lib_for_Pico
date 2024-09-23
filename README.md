@@ -14,6 +14,9 @@ Here are some simple examples.
 ### Show Rainbow
 This example allows your Pico to obtain the UID and type of the card.
 ```
+#include <SPI>
+#include <Freenove_RFID_Lib_for_Pico.h>
+
 //D10 - CS Pin、D5 - RST Pin
 RFID rfid(5,6);   
 unsigned char status;
