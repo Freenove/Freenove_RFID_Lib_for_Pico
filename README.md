@@ -11,8 +11,8 @@ Based on the example program "SerialNumberRead" in Arduino IDE. The source code 
 
 Here are some simple examples.
 
-### Show Rainbow
-This example allows your Pico to obtain the UID and type of the card.
+### SerialNumberRead
+This example allows your Pico driver RFID module to obtain the UID and type of the card.
 ```
 #include <SPI>
 #include <Freenove_RFID_Lib_for_Pico.h>
