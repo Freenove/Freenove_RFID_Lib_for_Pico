@@ -4,6 +4,7 @@
 This is an Arduino library used to drive Pico to control RFID modules.
 Please note that our library supports Raspberry Pi Pico/RP2040 package versions up to 4.0.2.
 Based on the example program "SerialNumberRead" in Arduino IDE. The source code repository is here:
+https://github.com/Freenove/Freenove_RFID_Lib_for_Pico
 
 
 
